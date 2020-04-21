@@ -1,0 +1,16 @@
+{
+  "name": "twbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promised-twit": "^0.1.0",
+    "twit": "^2.2.11",
+    "express": "^4.16.4"
+  }
+}
